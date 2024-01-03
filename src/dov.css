@@ -3,9 +3,16 @@
 }
 
 body{
-    background-color:#8096d8;
+    background-color:#E2E3E6;
 }
 
+.wrapping{
+    border:2px solid grey;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 2px;
+
+}
 
 h1{
     color: var(--primary-color);
@@ -32,5 +39,27 @@ a:hover{
     color:rgb(50, 199, 162);
 }
 li{
-    list-style: none;
+    list-style:none;
+}
+
+footer{
+    background-color: #434549;
+    color: white;
+}
+
+
+.box{
+  font-size: 20px;
+  font-family: sans-serif;
+  
+   
+}
+
+
+.boxes {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  grid-row-gap: 30px;
+  grid-column-gap: 20px;
+ 
 }
