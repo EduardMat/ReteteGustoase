@@ -48,6 +48,12 @@ footer{
 }
 
 
+.pageTitle{
+    color:#626368;
+    background-color: rgb(152, 165, 177);
+}
+
+
 .box{
   font-size: 20px;
   font-family: sans-serif;
