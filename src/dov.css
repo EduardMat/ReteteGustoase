@@ -48,8 +48,9 @@ footer{
 
 .pageTitle{
     color:#626368;
-    background-color: rgb(152, 165, 177);
+    background-color: rgb(185, 198, 210);
     text-align: center;
+    margin:10px;
 }
 
 
